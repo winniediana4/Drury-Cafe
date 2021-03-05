@@ -1,0 +1,37 @@
+p{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: large;
+  width: 800px;
+}
+ body{
+  background-color: goldenrod;
+  color: white; 
+}
+h1{
+  border-bottom: 3px solid black;
+  color: black;
+  font-weight: bolder;
+  
+}
+.menu{
+  display: inherit;
+  justify-content: space-around;
+  vertical-align: middle;
+}
+.reviews1, .reviews2{
+  border-bottom: 3px solid black;
+  border-top: 3px solid green;
+  color: black;
+  font-weight: 300px;
+  font-size: medium;
+  font-style: oblique;
+  color: darkslategray;
+}
+h2{
+  color: brown;
+}
+.menu{   
+  
+  
+}
